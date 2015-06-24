@@ -1,0 +1,26 @@
+{
+  "name": "my-project-template",
+  "version": "0.1.0",
+  "description": "Basic template for my projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flammenmensch/my-project-template.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flammenmensch",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.14.0",
+    "gulp-uglify": "^1.2.0",
+    "run-sequence": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
