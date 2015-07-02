@@ -3,5 +3,11 @@
   "env": {
     "browser": true,
     "node": true
+  },
+  "rules": {
+    "quotes": [2, "single"],
+    "no-alert": 1,
+    "no-console": 1,
+    "eqeqeq": 1
   }
 }
