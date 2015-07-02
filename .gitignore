@@ -3,5 +3,6 @@
 bower_components/
 node_modules/
 dist/
-js/all.js
+all.js
+all.css
 *.log
